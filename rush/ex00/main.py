@@ -94,7 +94,7 @@ K........P\
     print("Test 9 (10x10 Rook check):")
     checkmate(board9)
 
-    #No board!
+    #No board
     board10 = """"""
     print("Test 10 (No board):")
     checkmate(board10)
